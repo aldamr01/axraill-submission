@@ -1,0 +1,7 @@
+1. https://www.youtube.com/watch?v=CmIQ29cUGiE
+2. https://pytest-with-eric.com/introduction/pytest-assert-exception/
+3. https://smhk.net/note/2024/04/python-mock-reading-and-writing-files/
+4. https://docs.pydantic.dev/2.3/usage/types/number_types/
+5. https://leetcode.com/problems/cheapest-flights-within-k-stops/description/
+6. https://packaging.python.org/en/latest/guides/writing-pyproject-toml/
+7. ChatGPT, for generating node paths .json file
